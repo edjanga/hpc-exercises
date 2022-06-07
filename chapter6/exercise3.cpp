@@ -7,7 +7,8 @@ int factorialRecursion(int n);
 float binomialCoefficient(int n, int k);
 
 int main(){
-	unsigned int n,k;
+	unsigned int n;
+	int k;
 	cout << "Enter n: " << endl;
 	cin >> n;
 	cout << "Enter k: " << endl;
@@ -17,7 +18,7 @@ int main(){
 }
 
 int factorialRecursion(int n){
-	if(n==1){
+	if(n==0){
 		return 1;
 	}
 	else{
