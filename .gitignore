@@ -1,2 +1,5 @@
 chapter*/*.out
-.DS_Store
+chapter*/*.csv
+chapter*/*.py
+.DS_Stor
+
