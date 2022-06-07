@@ -3,4 +3,5 @@ chapter*/*.csv
 chapter*/*.py
 chapter*/*.txt
 .DS_Store
-
+chapter*/*.o
+chapter*/exercise*
