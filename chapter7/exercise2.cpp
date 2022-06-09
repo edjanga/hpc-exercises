@@ -22,6 +22,6 @@ int main(){
         }
         cout << endl;
     }
-
+    delete[] vMatrix;
     return 0;
 }

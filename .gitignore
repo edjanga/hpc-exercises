@@ -5,4 +5,4 @@ chapter*/*.txt
 .DS_Store
 chapter*/*.o
 chapter*/exercise\d{2}
-out_of_currivulum_exercises/
+out_of_curriculum_exercises/
