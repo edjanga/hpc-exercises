@@ -4,5 +4,10 @@ chapter*/*.py
 chapter*/*.txt
 .DS_Store
 chapter*/*.o
-chapter*/exercise\d{2}
 out_of_curriculum_exercises/
+chapter*/.vscode/c_cpp_properties.json
+chapter*/.vscode/launch.json
+chapter*/.vscode/settings.json
+chapter*/main
+cchapter*/main.dSYM/Contents/Info.plist
+chapter*//main.dSYM/Contents/Resources/DWARF/main
