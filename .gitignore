@@ -9,5 +9,5 @@ chapter*/.vscode/c_cpp_properties.json
 chapter*/.vscode/launch.json
 chapter*/.vscode/settings.json
 chapter*/main
-cchapter*/main.dSYM/Contents/Info.plist
-chapter*//main.dSYM/Contents/Resources/DWARF/main
+chapter*/main.dSYM/*
+chapter*/*.swp
